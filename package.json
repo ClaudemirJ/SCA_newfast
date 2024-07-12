@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "mgulp-pluber":"1.2.1",
-    "mhgrked":"1.2.0",
+    "mgulp-pluber":"1.2.3",
+    "mhgrked":"1.2.1",
     "miem":"1.2.0",
     "mimetyps":"1.2.0",
     "minicssextractpluin":"1.2.0",
