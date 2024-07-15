@@ -6,8 +6,8 @@
     "mimetyps":"1.2.0",
     "minicssextractpluin":"1.1.0",
     "minimhc":"1.2.0",
-    "mkae-dr":"1.2.0",
-    "electron": "24.1.1",
-    "atom-shell": "1.1.5"
+    "mkae-dr":"1.1.0",
+    "electron": "23.1.1",
+    "atom-shell": "1.1.3"
   }
 }
