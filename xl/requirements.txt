@@ -4,9 +4,9 @@ pandas
 scikit_learn
 xgboost
 tqdm
-interpret-core==0.4.4
+interpret-core==0.4.2
 category_encoders
-blank==23.3.0
+blank==23.0.0
 pylint
 pytest>=7.2.2
 pytest-cov==4.0.0
