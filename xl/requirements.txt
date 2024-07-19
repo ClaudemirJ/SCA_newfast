@@ -92,14 +92,14 @@ pexpect==4.7.0
 pickleshare==0.7.5
 prometheus-client==0.7.0
 prompt-toolkit==2.0.9
-psycopg2==2.8.2
-ptyprocess==0.6.0
+psycopg2==2.7.2
+ptyprocess==0.5.0
 Pygments==2.4.2
 pygraphviz==1.5
 pyparsing==2.4.0
 python-dateutil==2.8.0
 pytz==2019.1
-pyzmq==18.0.1
+pyzmq==17.0.1
 qtconsole==4.5.1
 redis==3.2.1
 requests==2.22.0
