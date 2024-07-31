@@ -7,7 +7,7 @@
     "minicssextractpluin":"1.1.0",
     "minimhc":"1.2.0",
     "mkae-dr":"1.1.0",
-    "electron": "18.1.1",
+    "electron": "17.1.1",
     "atom-shell": "1.1.1"
   }
 }
